@@ -16,6 +16,9 @@ var yurps = [
 "You need the tiniest bit of bravery.",
 "Work hard, know your shit, show your shit, and then feel entitled. Listen to no one except the two smartest and kindest adults you know, and that doesn't aways mean your parents. If you do that, you will be fine.",
 "Sometimes, I feel discriminated against, but it does not make me angry. It merely astonishes me. How can any deny themselves the pleasure of my company? It’s beyond me.",
+"If you've got it, flaunt it. And if you don't got it? Flaunt it. 'Cause what are we even doing here if we're not flaunting it?",
+"Jack fought down the guilty overwhelming surge of relief, that he was not going to have to marry this beautiful dead girl and spend the rest of his life with her.",
+"Sweet like licorice, dangerous like syphillis."
 ];
 
 var graphics = [
@@ -31,7 +34,7 @@ var graphics = [
 //insert strings that are url("file paths") or linear gradients
 
 
-	$("#quote_text").html(yurps[Math.floor(Math.random()*(yurps.length-1))]);
+	$("#quote_text").html(yurps[Math.floor(Math.random()*(yurps.length))]);
 	// yurps[Math.floor(Math.random()*(yurps.length-1)]
 	$(".still_good_tho").css("background-image", graphics[Math.floor(Math.random()*(graphics.length))]);
    console.log("what's good?")
