@@ -5,7 +5,8 @@
 //quotes correspond to text of inside div of main div (font stylized, spaced well)
 
 $(document).ready(function(){
-	// window.load
+
+
 var yurps = [
 "Swag.",
 "Don't quit.",
@@ -33,7 +34,6 @@ var graphics = [
 	"linear-gradient(to right, #009343, #839343, #FE9343)"
 ];
 
-//insert strings that are url("file paths") or linear gradients
 
 
 	$("#quote_text").html(yurps[Math.floor(Math.random()*(yurps.length))]);
