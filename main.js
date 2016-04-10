@@ -10,6 +10,8 @@ var yurps = [
 "Swag.",
 "Don't quit.",
 "Seek self-improvement.",
+"To not act is to be amongst the living dead.",
+"You made the right plans, now all you have to do is keep doing what you're doing.",
 "Not only is it possible for you to have your dream, but it is necessary.",
 "Every person is the form taken by a stream -- a marvelous torrent of milk, water, bread, beefsteak, fruit, vegetables, air, light, radiation -- all of which are streams in their own turn.",
 "How is it possible that a being with such sensitive jewels as the eyes, such enchanted musical instruments as the ears, and such a fabulous arabesque of nerves as the brain can experience itself as anything less than a god? And, when you consider that this incalculably subtle organism is inseparable from the still more marvelous patterns of its environment--from the minutest electrical designs to the whole company of the galaxies--how is it conceivable that this incarnation of all eternity can be bored with being?",
@@ -35,12 +37,11 @@ var graphics = [
 
 
 	$("#quote_text").html(yurps[Math.floor(Math.random()*(yurps.length))]);
-	// yurps[Math.floor(Math.random()*(yurps.length-1)]
 	$(".still_good_tho").css("background-image", graphics[Math.floor(Math.random()*(graphics.length))]);
    console.log("what's good?")
 
    	
-   	// graphics[Math.floor(Math.random()*(graphics.length-1))]
+   	
 
 
 //BELOW CODE ONLY CENTERS UPON PAGE LOAD, REPLACED WITH CSS3 TEXT-CENTER
