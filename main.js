@@ -38,7 +38,11 @@ var graphics = [
 
 	$("#quote_text").html(yurps[Math.floor(Math.random()*(yurps.length))]);
 	$(".still_good_tho").css("background-image", graphics[Math.floor(Math.random()*(graphics.length))]);
-   console.log("what's good?")
+   	console.log("what's good?")
+
+$("#refresh").click(function(){
+	document.location.reload(true);
+});
 
    	
    	
