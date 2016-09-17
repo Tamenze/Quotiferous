@@ -29,7 +29,12 @@ var remarks = [
 
 "<span> Jack fought down the guilty overwhelming surge of relief, that he was not going to have to marry this beautiful dead girl and spend the rest of his life with her. <br> <span style='color:black'> Maeve Binchy </span> <span>",
 
-"<span> Sweet like licorice, dangerous like syphillis. <br> <span style='color:black'> Lauryn Hill </span> <span>"
+"<span> Sweet like licorice, dangerous like syphillis. <br> <span style='color:black'> Lauryn Hill </span> <span>",
+
+"<span> Bitch, I'm me. <br> <span style='color:black'> Nicki Minaj </span> </span>",
+
+"<span> I am a member of that group that created his own slang. Some say I \"do my thing\" but I be doing my THANG. <br> <span style='color:black'> Kayo </span> </span>",
+
 ];
 
 var graphics = [
