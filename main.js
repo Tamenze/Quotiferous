@@ -33,8 +33,11 @@ var remarks = [
 
 "<span> Bitch, I'm me. <br> <span style='color:black'> Nicki Minaj </span> </span>",
 
-"<span> I am a member of that group that created his own slang. Some say I \"do my thing\" but I be doing my THANG. <br> <span style='color:black'> Kayo </span> </span>",
+"<span> I am a member of that group that created his own slang. Some say I do my thing but I be doing my THANG. <br> <span style='color:black'> Kayo </span> </span>",
 
+"<span> The fight is won or lost far away from witnesses -behind the lines, in the gym, and out there on the road, long before I dance under those lights. <br> <span style='color:black'> Muhammad Ali </span> </span>",
+
+"<span> I don't count my sit-ups, I only start counting when it starts hurting because they're the only ones that count. <br> <span style='color:black'> Muhammad Ali </span> </span>"
 ];
 
 var graphics = [
